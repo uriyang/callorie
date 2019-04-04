@@ -31,7 +31,7 @@ const {forEach, fromIter, map, filter, pipe} = require('callbag-basics');
 
 ### 반응 프로그래밍 예제
 
-<button>요소 에 대한 클릭 이벤트의 XY 좌표를 출력 합니다:
+<button>요소의 클릭 이벤트를 받아 XY 좌표를 출력 합니다:
 
 ```js
 const {forEach, fromEvent, map, filter, pipe} = require('callbag-basics');
