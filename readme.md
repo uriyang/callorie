@@ -8,7 +8,7 @@ Basic callbag 팩토리 및 연산자 시작하기. [Callbag](https://github.com
 - iterable 프로그래밍 지원 (also!)
 - 동일한 연산자가 위의 두 가지에 모두 적용됩니다.
 - 작다! 라이브러리의 크기는 [7kB](https://github.com/staltz/callbag-basics/tree/master/dist)에 불과합니다!
-- 빠르다! xstream 및 RxJS보다 [빠르다](https://github.com/staltz/callbag-basics/tree/master/perf)
+- 빠르다! xstream 및 RxJS보다 [빠릅니다](https://github.com/staltz/callbag-basics/tree/master/perf)
 - 확장성: 코어 라이브러리 없습니다.! 모두 유틸리티 함수입니다.
 
 Observable과 (비동기) Iterable 사이의 하이브리드를 상상해보십시오. 그게 바로 콜백에 관한 전부입니다. 또한, [callbag spec](https://github.com/callbag/callbag)을 따르는 몇 가지 간단한 콜백(callbacks)으로 구현되기 때문에 코드가 가볍다. 그 결과, 작고 빠릅니다.
