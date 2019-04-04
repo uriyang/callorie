@@ -4,7 +4,7 @@ Basic callbag 팩토리 및 연산자 시작하기. [Callbag](https://github.com
 
 **Highlights:**
 
-- 반응 형 스트림 프로그래밍 지원
+- 반응형 스트림 프로그래밍 지원
 - iterable 프로그래밍 지원 (also!)
 - 동일한 연산자가 위의 두 가지에 모두 적용됩니다.
 - 작다! 무게는 [7kB](https://github.com/staltz/callbag-basics/tree/master/dist)에 불과하다.
