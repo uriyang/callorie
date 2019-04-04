@@ -150,7 +150,7 @@ callbag에 포함된 함수 목록입니다.
 - **pullable source**: 요청 수신시에만 데이터를 전달하는 소스
 - **listener sink**: 소스로부터 수동적으로 데이터를 수신하는 싱크
 - **listenable source**: 요청에 대한 대기 없이, 싱크에 데이터를 보내는 소스
-- **operator**: 어떤 작업을 적용하는 다른 callbag 기반의 callbaga
+- **operator**: 어떤 작업의 결과로 생성된 callbag을 기초로 하는 callbag
 
 ## 기여방법
 
