@@ -17,7 +17,7 @@ Observable과 (비동기) Iterable 를 같이 사용하는 상상을 해보세�
 
 `npm install callbag-basics`
 
-연산자 및 팩토리 Import:
+연산자 및 팩토리를 Import 하는 방법:
 
 ```js
 const {forEach, fromIter, map, filter, pipe} = require('callbag-basics');
