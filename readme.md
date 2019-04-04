@@ -29,7 +29,7 @@ const {forEach, fromIter, map, filter, pipe} = require('callbag-basics');
 - [Flatten Promises](https://codesandbox.io/s/1o8ykm56o4)
 - [Flatten Events with Promises](https://codesandbox.io/s/m32m21v59x)
 
-### 반응 프로그래밍 예제
+### 반응형 프로그래밍 예제
 
 <button>요소의 클릭 이벤트를 받아 XY 좌표를 출력 합니다:
 
