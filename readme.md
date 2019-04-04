@@ -101,7 +101,7 @@ pipe(
 
 ## API
 
-아래는 포함 된 함수 목록입니다.
+callbag에 포함된 함수 목록입니다.
 
 ### Source factories
 
