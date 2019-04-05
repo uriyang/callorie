@@ -4,8 +4,8 @@ Basic callbag 팩토리 및 연산자 시작하기. [Callbag](https://github.com
 
 **Highlights:**
 
-- 반응형 스트림 프로그래밍 지원
-- iterable 프로그래밍 지원 (also!)
+- Reactive 스트림 프로그래밍 지원
+- Iterable 프로그래밍 지원 (also!)
 - 동일한 operator가 위의 두 가지에 모두 적용됩니다.
 - 작다! 라이브러리의 크기는 [7kB](https://github.com/staltz/callbag-basics/tree/master/dist)에 불과합니다!
 - 빠르다! xstream 및 RxJS보다 [빠릅니다](https://github.com/staltz/callbag-basics/tree/master/perf)
@@ -29,7 +29,7 @@ const {forEach, fromIter, map, filter, pipe} = require('callbag-basics');
 - [Flatten Promises](https://codesandbox.io/s/1o8ykm56o4)
 - [Flatten Events with Promises](https://codesandbox.io/s/m32m21v59x)
 
-### 반응형 프로그래밍 예제
+### Reactive 프로그래밍 예제
 
 <button>요소의 클릭 이벤트를 받아 XY 좌표를 출력 합니다:
 
