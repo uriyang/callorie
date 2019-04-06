@@ -49,7 +49,6 @@ pipe(
 ```
 
 움직이는 시계의 초심이 가리키는 처음 5개의 홀수를 출력 합니다.
-Pick the first 5 odd numbers from a clock that ticks every second, then start observing them:
 
 ```js
 const {forEach, interval, map, filter, take, pipe} = require('callbag-basics');
@@ -72,7 +71,6 @@ pipe(
 ### Iterable 프로그래밍 예제
 
 특정 범위에서 숫자 5개 선택하고 4로 나눈 다음, 출력 합니다.
-From a range of numbers, pick 5 of them and divide them by 4, then start pulling those one by one:
 
 ```js
 const {forEach, fromIter, take, map, pipe} = require('callbag-basics');
